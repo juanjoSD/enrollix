@@ -1,7 +1,6 @@
 import uuid
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import UUID, Column, Integer, String
 from sqlalchemy.orm import relationship
-from sqlalchemy.dialects.postgresql import UUID
 from app.db.database import Base
 
 class Role(Base):
