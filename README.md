@@ -222,11 +222,10 @@ gunicorn -k uvicorn.workers.UvicornWorker app.main:app
 
 ## License
 
-This project is provided for educational and professional use.
+[GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE)
 
 ---
 
 ## Author
 
-**Trésor Adzanto**
-Computer Engineering Student 
+[![Trésor](https://img.shields.io)](https://github.com)
