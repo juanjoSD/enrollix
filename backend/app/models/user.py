@@ -1,7 +1,9 @@
 import uuid
-from sqlalchemy import UUID, Column, Integer, String, ForeignKey
+from sqlalchemy import UUID, Boolean, Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship
 from app.db.database import Base
+from app.models.role import Role
+from app.models.application import Application
 
 class User(Base):
     __tablename__ = "users"
@@ -10,7 +12,8 @@ class User(Base):
     email = Column(String, unique=True, index=True, nullable=False)
     password = Column(String, nullable=False)
     role_id = Column(UUID(as_uuid=True), ForeignKey("roles.id"))
-
+    is_verified = Column(Boolean, default=False)
+    
     role = relationship("Role", back_populates="users")
     applications = relationship("Application", back_populates="student")
 
