@@ -27,7 +27,7 @@ def login(
     form_data: OAuth2PasswordRequestForm = Depends(),
     db: Session = Depends(get_db)
 ):
-    user = authenticate_user(form_data.username, form_data.password)
+    user = authenticate_user(db=db, username=form_data.username, password=form_data.password)
     
     access_token_expires = timedelta(minutes=int(ACCESS_TOKEN_EXPIRE_MINUTES))
 
@@ -85,7 +85,6 @@ def confirm_email(token: str, db: Session = Depends(get_db)):
         raise HTTPException(404, "User not found")
     
     user.is_verified = True
-
     db.delete(record)
     db.commit()
     
